@@ -3,6 +3,8 @@ Complementary log-log model with endogenous covariates, instrumented via the con
 
 Complementary log-log model with endogenous covariates (either continuous or functions of observed continuous covariates), instrumented via the control function approach (i.e., 2SRI) Use ivcloglog With STATA 19
 
+https://www.youtube.com/watch?v=AcrX2Zjqa9g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
